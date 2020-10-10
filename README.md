@@ -1,2 +1,2 @@
 # bioinfomatics
-Bioinfomatics knowlage , code and notes
+Bioinfomatics knowlage , code and notes!
